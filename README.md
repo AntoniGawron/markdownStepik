@@ -23,3 +23,10 @@ To jest lista numeryczna
   3. cos jeszcze
 4. kolejny punkt
 
+```
+def silnia(n):
+  if n==0:
+    return 1
+  else:
+    return silnia(n-1)*n
+```
