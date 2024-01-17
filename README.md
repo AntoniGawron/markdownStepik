@@ -17,4 +17,6 @@ to jest trzeci paragraf w dokumentacji projektu </br>
 To jest lista numeryczna
 1. Numer 1
 2. Numer 2
-3. Numer 3
+3. Numer 3\.
+  4. Numer 1
+  5. Numer 2
