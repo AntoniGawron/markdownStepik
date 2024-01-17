@@ -4,3 +4,7 @@ to jest pierwszy paragraf w dokumentacji projektu </br>
 to jest drugi paragraf w dokumentacji projektu </br>
 
 to jest trzeci paragraf w dokumentacji projektu </br>
+
+**to jest pogrubienie**
+~~to jest przekreślenie~~
+*a to jest kursywa*
