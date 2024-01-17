@@ -30,3 +30,4 @@ def silnia(n):
   else:
     return silnia(n-1)*n
 ```
+![./stepic_logo.jpeg](./stepic_logo.jpeg)
