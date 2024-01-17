@@ -14,3 +14,7 @@ to jest trzeci paragraf w dokumentacji projektu </br>
 >> To jest drugi blok
 >>>To jest trzeci cytat
 
+To jest lista numeryczna
+1. Numer 1
+2. Numer 2
+3. Numer 3
