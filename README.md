@@ -27,6 +27,7 @@ to jest trzeci paragraf w dokumentacji projektu </br>
 
 3. Trzeci element
 
+To jest fragment programu `print("Hello Word")` zagnieżdżony w tekście
 
 ```
 def silnia(n):
