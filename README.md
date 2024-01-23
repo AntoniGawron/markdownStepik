@@ -23,6 +23,16 @@ To jest lista numeryczna
   3. cos jeszcze
 4. kolejny punkt
 
+To jest lista nienumeryczna
+- jeden
+- dwa
+- trzy
+  -trzy jeden
+  -trzy dwa
+-cztery
+  -cztery jeden
+  -cztery dwa
+
 ```
 def silnia(n):
   if n==0:
