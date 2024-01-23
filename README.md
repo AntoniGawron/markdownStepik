@@ -14,20 +14,16 @@ to jest trzeci paragraf w dokumentacji projektu </br>
 >> To jest drugi blok
 >>>To jest trzeci cytat
 
-To jest lista numeryczna
 
-1. Numer 1
-2. Numer 2
-  2. podpunkt 1
-  3. podpunkt 2
-3. numer 3
 
 1. Pierwszy element
     1. Podpunkt 1
     2. Podpunkt 2
+    3. Podpunkt 3
 2. Drugi element
     - Podpunkt A
     - Podpunkt B
+    - Podpunkt C
 
 3. Trzeci element
 
