@@ -23,15 +23,16 @@ To jest lista numeryczna
   3. cos jeszcze
 4. kolejny punkt
 
-To jest lista nienumeryczna
-- jeden
-- dwa
-- trzy
-  -trzy jeden
-  -trzy dwa
--cztery
-  -cztery jeden
-  -cztery dwa
+1. Pierwszy element
+   1. Podpunkt 1
+   2. Podpunkt 2
+2. Drugi element
+   - Podpunkt A
+   - Podpunkt B
+      - Pod-podpunkt I
+      - Pod-podpunkt II
+3. Trzeci element
+
 
 ```
 def silnia(n):
