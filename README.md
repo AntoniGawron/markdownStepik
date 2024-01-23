@@ -15,22 +15,20 @@ to jest trzeci paragraf w dokumentacji projektu </br>
 >>>To jest trzeci cytat
 
 To jest lista numeryczna
+
 1. Numer 1
 2. Numer 2
-3. Numer 3
-  1. Numer 1
-  2. Numer 2
-  3. cos jeszcze
-4. kolejny punkt
+  2. podpunkt 1
+  3. podpunkt 2
+3. numer 3
 
 1. Pierwszy element
-   1. Podpunkt 1
-   2. Podpunkt 2
+    1. Podpunkt 1
+    2. Podpunkt 2
 2. Drugi element
-   - Podpunkt A
-   - Podpunkt B
-      - Pod-podpunkt I
-      - Pod-podpunkt II
+    - Podpunkt A
+    - Podpunkt B
+
 3. Trzeci element
 
 
